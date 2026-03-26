@@ -1,4 +1,4 @@
-# Hi, I'm Enzo (Nassau-1)
+# Hi, I'm Enzo (Nassau-1) 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nassau-1/Nassau-1/main/assets/sovereign_banner.png" alt="Sovereign Banner" width="100%">

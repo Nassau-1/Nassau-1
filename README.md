@@ -19,7 +19,7 @@ I am a Growth Equity Investor at [Move Capital](https://move-capital.com/), a pa
 
 ---
 
-### The Builder's Mindset
+### Building
 First and foremost, I am a builder. 
 
 *   Co-founder @ Talens: Built a one-stop-shop for entrepreneurs during the COVID-19 crisis, providing everything from market research and fundraising to full-stack growth (SEO, SEA, SMA, UX).
@@ -28,7 +28,7 @@ First and foremost, I am a builder.
 
 ---
 
-### Modern Tech Stack
+### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -47,5 +47,5 @@ First and foremost, I am a builder.
 
 ---
 <div align="right">
-  <i>On a mission to turbocharge European Growth Equity.</i>
+  <i>Z0.</i>
 </div>

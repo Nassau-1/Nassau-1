@@ -16,7 +16,7 @@ I am a Growth Equity Investor at [Move Capital](https://move-capital.com/), a pa
 *   ICEYE | Pre-Series E - $93m (SAR Satellite Imaging)
 *   Caracol AM | Series B - $40m (Large-scale Additive Manufacturing)
 *   Artificial Labs | Series B - $45m (Insurtech)
-*   LegalPlace - Series C - €70m (Legaltech)
+*   LegalPlace | Series C - €70m (Legaltech)
 ---
 
 ### Building
